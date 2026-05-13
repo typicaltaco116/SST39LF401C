@@ -1,3 +1,5 @@
+#pragma once
+
 #define ADR_BUS_WIDTH 18
 #define DQ_BUS_WIDTH 16
 
