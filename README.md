@@ -3,7 +3,7 @@ This library utilizes C++ macros for handling pin assignment for performance. Th
 
 ### Custom pin assignment
 In order to change the pin assignments used by the class instantiates in a particular implementation file, the ADR_PIN_x, DQ_pin_x, WE_PIN, OE_PIN, CE_PIN, RYBY_PIN, RST_PIN, or WP_PIN macros should be defined before the header file inclusion.
-Example:
+
 ```C
 #define WE_PIN 16
 #include <SST39LF401C.h>
