@@ -1,0 +1,11 @@
+# Syntax coloring for Arduino IDE
+SST39LF401C	KEYWORD1
+begin	KEYWORD2
+word_read	KEYWORD2
+word_program	KEYWORD2
+bulk_program	KEYWORD2
+sector_erase	KEYWORD2
+sector_partial_erase	KEYWORD2
+sector_stress	KEYWORD2
+get_block_start	KEYWORD2
+get_block_end	KEYWORD2
