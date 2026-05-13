@@ -1,5 +1,4 @@
 #include "NOR_stats.h"
-//#include "lib_SST39LF401C/SST39LF401C.h"
 #include <SST39LF401C.h>
 
 #define STAT_READ_COUNT 11

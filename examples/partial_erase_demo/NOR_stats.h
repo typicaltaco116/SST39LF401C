@@ -1,4 +1,3 @@
-//#include "lib_SST39LF401C/SST39LF401C.h"
 #include <SST39LF401C.h>
 
 #define EXPECTED_ERASE_VALUE    0xFFFF
